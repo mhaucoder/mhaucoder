@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaucoder&show_icons=true&hide_title=true&count_private=true&hide=prs)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhaucoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
