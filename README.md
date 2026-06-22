@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hau</h1>
-<h3 align="center">Mastering Both Front-end and Back-end</h3>
+<h3 align="center">Mastering Back-end</h3>
 
 - 🌱 I’m currently learning **Next.js** and **NestJS**.
 - 💬 Ask me about **Java** and **Spring Boot**.
